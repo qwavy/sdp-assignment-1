@@ -1,0 +1,16 @@
+# Local defense preparation guides (Must NOT be committed to public repository)
+defense_explanation.md
+uml_explanation.md
+
+# Compiled Java output
+bin/
+target/
+*.class
+
+# IDE & OS configuration files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
